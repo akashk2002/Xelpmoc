@@ -1,0 +1,28 @@
+React JS
+
+Introduction:
+  React is a javascript library used to develop User Interface(UI) components
+  
+  Componenets 
+    - Functional 
+    - Class
+ 
+ Basic Technologies : Html,Css,JavaScript
+ 
+ Basic Concepts Of Javascript
+ 
+  - variable declaration
+      var a = 10;
+      console.log(a);
+    
+  - data types
+      number,string,boolean,undefined
+      
+  - Arrays and Objects
+  - Functions
+  - Conditional Statements
+  - Looping concepts
+  
+  
+    
+ 

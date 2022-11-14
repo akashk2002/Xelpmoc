@@ -1,5 +1,52 @@
+--------------------------------------------------------------
+Data Types
+
 var s = 1;
 console.log(s)
 
 var s = "aka";
 console.log(typeof s);
+
+var message;
+console.log(typeof message);
+
+var message = true;
+console.log(typeof message);
+---------------------------------------------------------------
+Arrays
+
+var message = [1,2,3]
+console.log(message);
+
+var message = [1,2,3]
+console.log(message[0]);
+-------------------------------------------------------------
+Objects
+
+var message ={ name : 'john', age:12}
+console.log(message);
+------------------------------------------------------------
+Fuctions
+
+function user(){
+  console.log("Akash");
+}
+user();
+
+function user(s){
+  console.log(s+10);
+}
+user(100);
+-----------------------------------------------------------
+Conditional Statements 
+
+var m=85
+if(m >85){
+  console.log("Grade A")
+}
+else if(m>55){
+  console.log("Grade B")
+}
+else{
+  console.log("Grade C")
+}

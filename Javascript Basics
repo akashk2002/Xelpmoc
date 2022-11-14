@@ -50,3 +50,18 @@ else if(m>55){
 else{
   console.log("Grade C")
 }
+----------------------------------------------------------------
+Looping Statements
+
+//For Loop
+for(var i=0;i<5;i++)
+{
+  console.log("Akash")
+}
+//While Loop
+var out = 1;
+while(out<=10){
+  
+  out++;
+  console.log(out);
+}
